@@ -12,6 +12,6 @@ et adapter l'emplacement où télécharger
 
 Reste à faire : 
 
-- détecter que la version disponible n'est pas la même que sur le site captvty.fr et lancer automatiquement la mise à jour dans ce cas
+- détecter que la version installée n'est pas la même que sur le site captvty.fr et lancer automatiquement la mise à jour dans ce cas
 
 - créer un lanceur sur lequel double-cliquer
