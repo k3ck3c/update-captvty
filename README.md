@@ -19,5 +19,6 @@ et extraire la date du fichier Captvty.exe
 stat -c %w .captvty/Captvty.exe
 2022-07-25 09:24:41.015654742 +0200
 il reste à convertir et comparer les dates
+vu que Captvty affiche un bandeau, il y a peut-être un moyen de récupérer cette information 
 
 - créer un lanceur sur lequel double-cliquer
