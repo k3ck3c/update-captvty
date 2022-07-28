@@ -13,5 +13,11 @@ et adapter l'emplacement où télécharger
 Reste à faire : 
 
 - détecter que la version installée n'est pas la même que sur le site captvty.fr et lancer automatiquement la mise à jour dans ce cas
+exemple actuellement on peut extraire du site captvty.fr la chaine
+23 mai 2022
+et extraire la date du fichier Captvty.exe
+stat -c %w .captvty/Captvty.exe
+2022-07-25 09:24:41.015654742 +0200
+il reste à convertir et comparer les dates
 
 - créer un lanceur sur lequel double-cliquer
