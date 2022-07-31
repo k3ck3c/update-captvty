@@ -5,10 +5,11 @@ Pour certaines personnes, mettre à jour Captvty se révèle compliqué
 
 Pour Mac, il faudra faire
 
-brew install wget ggrep
+- brew install wget ggrep
 
 vu que ggrep permet de faire ce que le grep sous Mac ne sait pas faire
-et adapter l'emplacement où télécharger
+
+- adapter l'emplacement où télécharger
 
 Reste à faire : 
 
@@ -16,6 +17,8 @@ Reste à faire :
 
 exemple actuellement on peut extraire du site captvty.fr la chaine
 23 mai 2022
+
+(en juin et juillet, je suppose que l'affichage ne sera pas  juin...)
 
 et extraire la date du fichier Captvty.exe
 
