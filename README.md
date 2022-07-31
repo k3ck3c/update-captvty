@@ -18,7 +18,7 @@ Reste à faire :
 exemple actuellement on peut extraire du site captvty.fr la chaine
 23 mai 2022
 
-(en juin et juillet, je suppose que l'affichage ne sera pas  juin...)
+(en juin et juillet, je suppose que l'affichage ne sera pas  jui...)
 
 et extraire la date du fichier Captvty.exe
 
