@@ -33,3 +33,9 @@ vu que Captvty affiche un bandeau, il y a peut-être un moyen de récupérer cet
 mail envoyé à l'auteur de Captvty pour savoir si une solution existe avec l'exécutable Captvty
 
 - créer un lanceur sur lequel double-cliquer
+
+
+
+Autre idée
+
+bash majcap.sh
